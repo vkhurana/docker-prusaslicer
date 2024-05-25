@@ -18,7 +18,7 @@ This is a docker image on Ubuntu with Python and Prusa Slicer, and uses `watchdo
 
 [Code and Pipline is on GitHub](https://github.com/vkhurana/docker-prusaslicer):  
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/vkhurana/docker-prusaslicer?logo=github)  
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/vkhurana/docker-prusaslicer/.github/workflows/BuildPublishPipeline.yml?logo=github)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/vkhurana/docker-prusaslicer/.github/workflows/publish-docker-image.yml?logo=github)
 ## Container Images
 
 Docker container images are published on [Docker Hub](https://hub.docker.com/r/vkhurana/docker-prusaslicer).  
